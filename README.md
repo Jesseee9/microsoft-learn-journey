@@ -2,7 +2,7 @@
 A living log of my Microsoft Learn journey — showcasing completed learning path trophies in Azure, PowerShell, and cloud fundamentals.
 Perfect, Jesse — let’s lock this down cleanly. You’ll have:
 
-📄 General README (for the repo root)
+
 # Microsoft Learn Journey 🏆
 
 This repository documents my completed **Microsoft Learn trophies** (learning paths).  
