@@ -16,8 +16,8 @@ It’s not a certification repo — it’s a momentum log showing consistency an
 ---
 
 ## 📊 Progress Snapshot
-- **Trophies earned:** 12  
-- **Badges earned:** 44  
+- **Trophies earned:** 16  
+- **Badges earned:** 66
 
 ---
 
